@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Hannah 👋
 
-<!--
-**HannahNgyx/HannahNgyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on backend systems, reliability, and turning messy real-world workflows into software people actually use. University of Michigan CS grad.
 
-Here are some ideas to get you started:
+- 🏭 **Azimuth Industrial**: building workflow automation and an on-prem, CMMC-compliant AI knowledge platform
+- 🛠️ **Tarmac.IO**: debugging and maintaining production APIs, data pipelines, and PostgreSQL systems
+- 🌱 **Currently learning:** distributed systems and storage internals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+**[AI Whale Tracker](https://github.com/HannahNgyx/whale-tracker)**: FastAPI service that ingests large Ethereum transfers, ranks and summarizes them with an LLM, and serves a live dashboard. Built with concurrency-safe SQLite persistence, non-blocking cache refresh, and honest degraded-health reporting.
+`Python` `FastAPI` `SQLite` `LLMs`
+
+**[TraumaLink](https://github.com/HannahNgyx/handoff-zero)**: real-time EMS-to-hospital trauma handoff. A paramedic speaks a report, a structured trauma card fills in live, and the hospital can accept, request missing info, and track multiple incoming patients.
+`Next.js` `TypeScript` `FHIR (Medplum)` `WebSockets` `Deepgram Voice AI`
+
+## Tools I use
+
+Python · TypeScript · SQL · C++ · Ruby on Rails · Flask · FastAPI · React · PostgreSQL · Docker · AWS · GitHub Actions
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/hannahngx/) · nguyenhanh.ac812@gmail.com
