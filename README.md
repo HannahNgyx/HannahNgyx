@@ -2,7 +2,7 @@
 
 Software engineer focused on backend systems, reliability, and turning messy real-world workflows into software people actually use. University of Michigan CS grad.
 
-- 🏭 **Azimuth Industrial**: building workflow automation and an on-prem, CMMC-compliant AI knowledge platform
+- 🏭 **Azimuth Industrial**: building workflow automation, professional website and an on-prem, CMMC-compliant AI knowledge platform
 - 🛠️ **Tarmac.IO**: debugging and maintaining production APIs, data pipelines, and AWS systems
 - 🌱 **Currently learning:** distributed systems and storage internals
 
